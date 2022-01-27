@@ -1,12 +1,3 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
-
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
-
 ## Tentang Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -71,5 +62,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+
+
 ![screencapture-127-0-0-1-8000-2020-11-24-23_06_21](https://user-images.githubusercontent.com/42790598/151298543-a11097fd-5166-48d5-9b8d-070f5f78e31c.png)
+![screencapture-127-0-0-1-8000-products-2020-11-24-23_07_34](https://user-images.githubusercontent.com/42790598/151298875-4263fed7-393f-4559-a95d-b1bca6ddd418.png)
+![screencapture-127-0-0-1-8000-products-10-2020-11-24-23_08_11](https://user-images.githubusercontent.com/42790598/151298920-430af326-92e2-4cf2-8806-e632fb24b008.png)
+![screencapture-127-0-0-1-8000-about-2020-11-24-23_54_35](https://user-images.githubusercontent.com/42790598/151298959-04b0c9b4-04a8-4cae-8139-eb88411cdc3a.png)
+![screencapture-127-0-0-1-8000-contact-2020-11-24-23_54_55](https://user-images.githubusercontent.com/42790598/151298990-12a02922-af58-44b9-9dd0-9aa3b9a1afb2.png)
+
 
